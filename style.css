@@ -1,0 +1,51 @@
+:root {
+    --gray:#333 ;
+--button: rgb(46, 46, 198);
+--white: rgb(255, 255, 255);
+}
+
+body{
+font-family: "Roboto";
+}
+header{color: rgb(255, 255, 255);}
+
+
+
+
+.main-section{
+  background-color: var(--gray);
+  
+  }
+
+.logo-header{ color: black;
+  font-size: 23px; 
+  text-decoration: none; 
+font-family: "Raleway";}
+  
+
+
+
+h1{
+color: rgb(255, 255, 255);
+font-size: 24px;
+}
+
+
+button{background-color: var(--button);
+    color: aliceblue;
+    font-size: 24px;}
+
+
+
+
+.logo-footer{color: var(--white);
+  font-size: 23px;
+  text-decoration: none;  
+font-family: "Raleway";}
+
+
+  footer{background-color: var(--gray);}
+.address-footer{color: var(--white);}
+.li-footer{color: var(--gray);}
+.gmail-footer{color: var(--white);}
+.tel-footer{color:var(--white) ;}
